@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @NaimsWorkshop
-- 👀 I’m interested in ...Game Developing
-- 🌱 I’m currently learning ...C# & Unity Engine
-- 💞️ I’m looking to collaborate on ...Google
-- 📫 How to reach me ...Tweet - Engr_J_Naim
+### Hi there! 👋 Miss me ?
+[![Stats](https://github-readme-stats.vercel.app/api?username=NaimsWorkshop&count_private=true&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaimsWorkshop&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!---
 NaimsWorkshop/NaimsWorkshop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
